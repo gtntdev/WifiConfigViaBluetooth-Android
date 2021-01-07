@@ -33,6 +33,8 @@ import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
 
+    //git worked
+
     //layout
     private Spinner devicesSpinner;
     private LinearLayout ll_network_root;

@@ -7,4 +7,4 @@ Just clone the repo, install the docker server and use the app to configure your
 
 Many thanks to [Brendan Myers](https://github.com/brendan-myers) for your contributions!
 
-Note: the projects aren't compatible as I changed not only the GUI but added some easy JSON network interface!
+Note: the projects aren't compatible as I changed not only the GUI but added some basic JSON network interface!
